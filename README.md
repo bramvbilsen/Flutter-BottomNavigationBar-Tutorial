@@ -1,6 +1,5 @@
-# tutorial
-
-A new Flutter project.
+# Flutter BottomNavigationBar Tutorial
+The video for this project has not been released yet!
 
 ## Getting Started
 
